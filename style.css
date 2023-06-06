@@ -397,6 +397,9 @@ nav a{
       padding-left: 0px;
       margin-left: -9px;
   }
+      .navbar{  
+        margin-right: -33px;
+      }
   }
         
     
